@@ -1,0 +1,5 @@
+[skorepa-info]
+name=skorepa.info
+baseurl=http://repo.skorepa.info/Fedora/21/x86_64/
+enabled=1
+gpgcheck=0
